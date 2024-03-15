@@ -1,0 +1,4 @@
+dni,apellido,nombre,email
+30328951, talavera beacon, gonzalo enrique, gonzatalavera@gmail.com
+27174792, espinosa lopez, lilian, lilian@gmail.com
+20325789,Suarez,Matias,soypirata@gmail.com
